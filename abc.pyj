@@ -1,0 +1,3 @@
+j = rule('mock://foo', 'foo')
+
+
