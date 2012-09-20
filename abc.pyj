@@ -1,3 +1,3 @@
-j = rule('mock://foo', 'foo')
+j = rule('mock://foo?dtstart=2012-05-21T00:00:00', 'foo')
 
 
