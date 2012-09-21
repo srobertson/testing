@@ -1,34 +1,4 @@
-class Hit(object):
-    url_key = None
-    time_key = None
-    html_template = None
-    text_template = None
-    content_key = "content"
-    def __init__(self, data):
-        self.data = data
-    @property
-    def url(self):
-        return self.data[self.url_key]
-    @property
-    def asctime(self):
-        return self.time_key and self.data[self.time_key]
-    @property
-    def datetime(self):
-        return _datetime_from_asctime(self.asctime)
-    @property
-    def content(self):
-        return self.content_key and self.data[self.content_key]
-    @property
-    def html(self):
-        return self.html_template % self.data
-    @property
-    def text(self):
-        return self.text_template % self.data
 
-class NewsHit(Hit):
-    url_key = "unescapedUrl"
-    time_key = "publishedDate"
-    
 
 
 
@@ -39,6 +9,37 @@ komodo.interval = 2
 def map(record, params):
   import json
   data = json.loads(record)
+  class Hit(object):
+      url_key = None
+      time_key = None
+      html_template = None
+      text_template = None
+      content_key = "content"
+      def __init__(self, data):
+          self.data = data
+      @property
+      def url(self):
+          return self.data[self.url_key]
+      @property
+      def asctime(self):
+          return self.time_key and self.data[self.time_key]
+      @property
+      def datetime(self):
+          return _datetime_from_asctime(self.asctime)
+      @property
+      def content(self):
+          return self.content_key and self.data[self.content_key]
+      @property
+      def html(self):
+          return self.html_template % self.data
+      @property
+      def text(self):
+          return self.text_template % self.data
+
+  class NewsHit(Hit):
+      url_key = "unescapedUrl"
+      time_key = "publishedDate"
+  
   
   for r in data["responseData"]["results"]:
       NewsHit(r)
