@@ -1,4 +1,9 @@
 j = rule('mock://foo?dtstart=2012-05-21T00:00:00', 'foo')
 
+@j.map
+def map(record, params):
+  yield None, record
+
 
 komodo=rule('http://ajax.googleapis.com/ajax/services/search/news?v=1.0&q=komodo+activestate','komodo')
+komodo.map(map)
