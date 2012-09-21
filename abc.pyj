@@ -9,4 +9,4 @@ komodo.interval = 2
 @komodo.map
 def map(record, params):
   print dir(params)
-  yield None, record
+  yield params.url, record
