@@ -43,4 +43,4 @@ def map(record, params):
   
   for r in data["responseData"]["results"]:
       hit = NewsHit(r)
-      yield hit.url, None
+      yield params.start, hit.url
