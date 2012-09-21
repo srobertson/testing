@@ -8,5 +8,5 @@ komodo.freq = MINUTELY
 komodo.interval = 2
 @komodo.map
 def map(record, params):
-  print params.keys()
+  print dir(params)
   yield None, record
