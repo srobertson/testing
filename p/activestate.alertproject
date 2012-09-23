@@ -1,0 +1,49 @@
+[project]
+name=ActiveState Alert
+desc=A daily summary of mentions of ActiveState and ActiveState projects on the net.
+archive_url=http://i.activestate.com/alerts/activestate/
+from=Webops' asalert script <webops@activestate.com>
+to=activators@activestate.com
+bcc=
+queries=komodo,activeperl,activepython,pypm,activetcl,pdk,tdk,activestate,stackato
+
+[komodo]
+title=Komodo
+# '-comiccon' because there is a frequent "Comiccon - Komodo (Radio Edit)" hit.
+q=komodo activestate OR ide OR edit -indonesia -komodo-dragon -komodo-dragons -zoo -comiccon -island
+content_exclude_patterns=/comiccon/i,/ADRSongs/i,/radio edit/i,/indonesia/i,/island/i,/zoo/i
+
+[activeperl]
+title=ActivePerl
+q=activeperl
+
+[activepython]
+title=ActivePython
+q=activepython
+
+[pypm]
+title=PyPM
+q=(pypm AND python)
+
+[activetcl]
+title=ActiveTcl
+q=activetcl
+
+#TODO: this query doesn't work on twitter!
+[pdk]
+title=PDK
+q=(PDK AND (ActiveState OR Perl)) OR "Perl Dev Kit" OR PerlApp OR PerlCtrl OR PerlMSI OR PerlNet OR PerlSvc OR PerlTray OR PerlCritic
+
+#TODO: this query doesn't work on twitter!
+[tdk]
+title=TDK
+q=(TDK AND ActiveState) OR "Tcl Dev Kit"
+
+[activestate]
+title=ActiveState
+q=activestate -active-state -activestateus
+
+[stackato]
+title=Stackato
+q=stackato
+

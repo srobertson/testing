@@ -1,0 +1,65 @@
+# Generate searches
+google_url_pattern = 'http://ajax.googleapis.com/ajax/services/search/%s?v=1.0&%s'
+twitter_url_pattern = 'http://search.twitter.com/search.json?%s' 
+
+searches=rule('repo://p')
+@searches.map
+def map(data, params):
+  json.loads(data)
+  
+  for name, category in json.loads(data).items():
+    for query in project['query'].split(','):
+      query = urllib.urlencode({'q' : q})
+      
+      # google searches
+      for type in ("news", "blogs", "video"):  
+        yield category['title'], {'url':google_url_pattern % (type, query)}
+  
+      # twitter searches
+      yield "twitter", 'http://search.twitter.com/search.json?%s' % query
+  
+
+# # Preform searches for the given day
+# results = rule('urls-from:searches/url')
+# @results.declare_targets
+# def declare_targets(self, segments):
+#   # todo return segments that depend on all previous segments
+#   pass
+# 
+# # map previous results
+# @results.map
+# def map(results, params): 
+#   if params.url.startswith('fever'):
+#     # doc's retreived from the cluster will be fed to us one at a time
+#     # we emit the URLs to dedup, but ignore the docs
+#     yield results[0], None
+#   else:
+#     # it's the results of the query
+#     for r in results:
+#       yield results['url'], r
+#     
+# @results.reduce
+# def reduce(iter, params):
+#   prev = None
+#   for url, doc in iter:
+#     if url == prev:
+#       continue
+#     prev=url
+#     if doc:
+#       yield url, doc
+# 
+# # ehh here we'd like to change the mail results per project      
+# mail_results = results.chain('smtp:mail.activestate.com')
+# @mail_results.map
+# def map(record, params):
+#   yield 'alerts@activestate.com', record
+#   
+# @mail_results.reduce
+# def reduce(iter, params):
+#   # format e-mail
+#   yield dict(
+#     from="srobertson@codeit.com",
+#     to="alerts@activestate",
+#     body="hi mom"
+#   ) 
+#   
