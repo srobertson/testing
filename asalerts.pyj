@@ -8,6 +8,7 @@ searches.interval = 2
 
 @searches.map
 def map(file, params):
+  import urllib
   from ConfigParser import SafeConfigParser, NoOptionError
   
 
