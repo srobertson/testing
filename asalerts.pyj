@@ -13,7 +13,11 @@ def map(file, params):
   
 
   config = SafeConfigParser()
-  config.readfp(file)
+  try:
+    config.readfp(file)
+  except Exception, e: 
+    print file.name, e
+    return
   
 
   for category in config.sections():
