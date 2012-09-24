@@ -1,4 +1,4 @@
-searches=rule('repo:/srobertson/testing/p', 'searche_queries')
+searches=rule('repo:/srobertson/testing/p', 'search_queries')
 searches.freq = MINUTELY
 searches.interval = 2
 
