@@ -11,7 +11,7 @@ def map(file, params):
   from ConfigParser import SafeConfigParser, NoOptionError
   
 
-  config = SafecConfigParser()
+  config = SafeConfigParser()
   config.readfp(file)
   
 
