@@ -8,6 +8,7 @@ searches.interval = 2
 
 @searches.map
 def map(data, params):
+  print data
   json.loads(data)
   
   for name, category in json.loads(data).items():
