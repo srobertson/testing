@@ -3,6 +3,9 @@ google_url_pattern = 'http://ajax.googleapis.com/ajax/services/search/%s?v=1.0&%
 twitter_url_pattern = 'http://search.twitter.com/search.json?%s' 
 
 searches=rule('repo://p')
+searches.freq = MINUTELY
+searches.interval = 2
+
 @searches.map
 def map(data, params):
   json.loads(data)
