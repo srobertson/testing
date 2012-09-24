@@ -1,8 +1,4 @@
-# Generate searches
-google_url_pattern = 'http://ajax.googleapis.com/ajax/services/search/%s?v=1.0&%s'
-twitter_url_pattern = 'http://search.twitter.com/search.json?%s' 
-
-searches=rule('repo://p', 'searches')
+searches=rule('repo:/srobertson/testing/p', 'searche_queries')
 searches.freq = MINUTELY
 searches.interval = 2
 
@@ -10,6 +6,10 @@ searches.interval = 2
 def map(file, params):
   import urllib
   from ConfigParser import SafeConfigParser, NoOptionError
+  # Generate searches
+  google_url_pattern = 'http://ajax.googleapis.com/ajax/services/search/%s?v=1.0&%s'
+  twitter_url_pattern = 'http://search.twitter.com/search.json?%s' 
+  
   
 
   config = SafeConfigParser()
@@ -27,10 +27,10 @@ def map(file, params):
       
       # google searches
       for type in ("news", "blogs", "video"):  
-        yield section, {'url':google_url_pattern % (type, query)}
+        yield category, {'url':google_url_pattern % (type, query)}
   
       # twitter searches
-      yield section, {'url':'http://search.twitter.com/search.json?%s' % query}
+      yield category, {'url':twitter_url_pattern % query}
   
 
 # # Preform searches for the given day
