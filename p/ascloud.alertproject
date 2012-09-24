@@ -1,0 +1,119 @@
+[project]
+name=ActiveState Cloud Alert
+desc=Keeping up on PaaS landscape.
+archive_url=http://i.activestate.com/alerts/ascloud/
+from=Webops' asalert script <webops@activestate.com>
+to=multipaas@activestate.com
+
+queries=amazon elastic beanstalk,aws elastic beanstalk,bitnami cloud,deployfu,engineyard,enstratus,eucalyptus AND cloud,google app engine OR gae,gondor AND python OR cloud,heroku,hpcloud OR hp cloud services,jelastic,joyentcloud OR joyent cloud,azure AND microsoft OR cloud,nodesocket,nodester,nuage,openstack,phenona,picloud,pydra,stabl.io
+
+[amazon elastic beanstalk]
+title=amazon elastic beanstalk
+q=amazon elastic beanstalk
+url_exclude_patterns=/youtube.com/i
+
+[aws elastic beanstalk]
+title=aws elastic beanstalk
+q=aws elastic beanstalk
+url_exclude_patterns=/youtube.com/i
+
+[bitnami cloud]
+title=bitnami cloud
+q=bitnami cloud
+url_exclude_patterns=/youtube.com/i
+
+[deployfu]
+title=deployfu
+q=deployfu
+url_exclude_patterns=/youtube.com/i
+
+[engineyard]
+title=engineyard
+q=engineyard
+url_exclude_patterns=/youtube.com/i
+
+[enstratus]
+title=enstratus
+q=enstratus
+url_exclude_patterns=/youtube.com/i
+
+[eucalyptus AND cloud]
+title=eucalyptus AND cloud
+q=eucalyptus AND cloud
+url_exclude_patterns=/youtube.com/i
+
+[google app engine OR gae]
+title=google app engine OR gae
+q=google app engine OR gae
+url_exclude_patterns=/youtube.com/i
+
+[gondor AND python OR cloud]
+title=gondor AND python OR cloud
+q=gondor AND python OR cloud
+url_exclude_patterns=/youtube.com/i
+
+[heroku]
+title=heroku
+q=heroku
+url_exclude_patterns=/youtube.com/i
+
+[hpcloud OR hp cloud services]
+title=hpcloud OR hp cloud services
+q=hpcloud OR hp cloud services
+url_exclude_patterns=/youtube.com/i
+
+[jelastic]
+title=jelastic
+q=jelastic
+url_exclude_patterns=/youtube.com/i
+
+[joyentcloud OR joyent cloud]
+title=joyentcloud OR joyent cloud
+q=joyentcloud OR joyent cloud
+url_exclude_patterns=/youtube.com/i
+
+[azure AND microsoft OR cloud]
+title=azure AND microsoft OR cloud
+q=azure AND microsoft OR cloud
+url_exclude_patterns=/youtube.com/i
+
+[nodesocket]
+title=nodesocket
+q=nodesocket
+url_exclude_patterns=/youtube.com/i
+
+[nodester]
+title=nodester
+q=nodester
+url_exclude_patterns=/youtube.com/i
+
+[nuage]
+title=nuage
+q=nuage
+url_exclude_patterns=/youtube.com/i
+
+[openstack]
+title=openstack
+q=openstack
+url_exclude_patterns=/youtube.com/i
+
+[phenona]
+title=phenona
+q=phenona
+url_exclude_patterns=/youtube.com/i
+
+[picloud]
+title=picloud
+q=picloud
+url_exclude_patterns=/youtube.com/i
+
+[pydra]
+title=pydra
+q=pydra
+url_exclude_patterns=/youtube.com/i
+
+[stabl.io]
+title=stabl.io
+q=stabl.io
+url_exclude_patterns=/youtube.com/i
+

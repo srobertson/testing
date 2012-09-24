@@ -1,0 +1,232 @@
+[project]
+name=ActiveState Probative Terms part 3
+desc=A list of search terms recommended by Josh.
+archive_url=http://i.activestate.com/alerts/asprobative3/
+from=Webops' asalert script <webops@activestate.com>
+to=angieh@activestate.com,grahams@activestate.com,ronb@activestate.com,fredn@activestate.com
+bcc=kevinw@activestate.com
+
+queries="activestate python" documentation,activepython release,"active python" release,"activestate python" release,activepython faq,"active python" faq,"activestate python" faq,activepython "web hosting","active python" "web hosting","activestate python" "web hosting",activepython webhosting,"active python" webhosting,"activestate python" webhosting,activepython supports,"active python" supports,"activestate python" supports,activepython instructions,"active python" instructions,"activestate python" instructions,activepython installer,"active python" installer,"activestate python" installer,activepython path,"active python" path,"activestate python" path,activepython directory,"active python" directory,"activestate python" directory,activepython documentation,"active python" documentation,"activestate python" documentation,activepython dependency,"active python" dependency,"activestate python" dependency,activepython supported,"active python" supported,"activestate python" supported
+
+["activestate python" documentation]
+title="activestate python" documentation
+q="activestate python" documentation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython release]
+title=activepython release
+q=activepython release
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" release]
+title="active python" release
+q="active python" release
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" release]
+title="activestate python" release
+q="activestate python" release
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython faq]
+title=activepython faq
+q=activepython faq
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" faq]
+title="active python" faq
+q="active python" faq
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" faq]
+title="activestate python" faq
+q="activestate python" faq
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython "web hosting"]
+title=activepython "web hosting"
+q=activepython "web hosting"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" "web hosting"]
+title="active python" "web hosting"
+q="active python" "web hosting"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" "web hosting"]
+title="activestate python" "web hosting"
+q="activestate python" "web hosting"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython webhosting]
+title=activepython webhosting
+q=activepython webhosting
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" webhosting]
+title="active python" webhosting
+q="active python" webhosting
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" webhosting]
+title="activestate python" webhosting
+q="activestate python" webhosting
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython supports]
+title=activepython supports
+q=activepython supports
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" supports]
+title="active python" supports
+q="active python" supports
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" supports]
+title="activestate python" supports
+q="activestate python" supports
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython instructions]
+title=activepython instructions
+q=activepython instructions
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" instructions]
+title="active python" instructions
+q="active python" instructions
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" instructions]
+title="activestate python" instructions
+q="activestate python" instructions
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython installer]
+title=activepython installer
+q=activepython installer
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" installer]
+title="active python" installer
+q="active python" installer
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" installer]
+title="activestate python" installer
+q="activestate python" installer
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython path]
+title=activepython path
+q=activepython path
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" path]
+title="active python" path
+q="active python" path
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" path]
+title="activestate python" path
+q="activestate python" path
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython directory]
+title=activepython directory
+q=activepython directory
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" directory]
+title="active python" directory
+q="active python" directory
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" directory]
+title="activestate python" directory
+q="activestate python" directory
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython documentation]
+title=activepython documentation
+q=activepython documentation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" documentation]
+title="active python" documentation
+q="active python" documentation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" documentation]
+title="activestate python" documentation
+q="activestate python" documentation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython dependency]
+title=activepython dependency
+q=activepython dependency
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" dependency]
+title="active python" dependency
+q="active python" dependency
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" dependency]
+title="activestate python" dependency
+q="activestate python" dependency
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython supported]
+title=activepython supported
+q=activepython supported
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" supported]
+title="active python" supported
+q="active python" supported
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" supported]
+title="activestate python" supported
+q="activestate python" supported
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+

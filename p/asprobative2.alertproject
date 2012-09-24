@@ -1,0 +1,940 @@
+[project]
+name=ActiveState Probative Terms part 2
+desc=A list of search terms recommended by Josh.
+archive_url=http://i.activestate.com/alerts/asprobative2/
+from=Webops' asalert script <webops@activestate.com>
+to=angieh@activestate.com,grahams@activestate.com,ronb@activestate.com,fredn@activestate.com
+bcc=kevinw@activestate.com
+
+queries="active tcl" included,"activestate tcl" included,uses activetcl,uses "active tcl",uses "activestate tcl",programmed activetcl,programmed "active tcl",programmed "activestate tcl",activetcl quickstart,"active tcl" quickstart,"activestate tcl" quickstart,recommends activetcl,recommends "active tcl",recommends "activestate tcl",recommended activetcl,recommended "active tcl",recommended "activestate tcl",suggests activetcl,suggests "active tcl",suggests "activestate tcl",activetcl configuration,"active tcl" configuration,"activestate tcl" configuration,activestate configuration,activetcl requirements,"active tcl" requirements,"activestate tcl" requirements,uses activetcl version,uses "active tcl" version,uses "activestate tcl" version,activetcl version "or later","active tcl" version "or later","activestate tcl" version "or later",activetcl suggested,"active tcl" suggested,"activestate tcl" suggested,activetcl portal,"active tcl" portal,"activestate tcl" portal,activetcl required,"active tcl" required,"activestate tcl" required,activetcl included,"active tcl" included,"activestate tcl" included,activetcl prerequisite,"active tcl" prerequisite,"activestate tcl" prerequisite,activetcl documentation,"active tcl" documentation,"activestate tcl" documentation,activetcl release,"active tcl" release,"activestate tcl" release,activetcl faq,"active tcl" faq,"activestate tcl" faq,activetcl "web hosting","active tcl" "web hosting","activestate tcl" "web hosting",activetcl webhosting,"active tcl" webhosting,"activestate tcl" webhosting,activetcl supports,"active tcl" supports,"activestate tcl" supports,activetcl instructions,"active tcl" instructions,"activestate tcl" instructions,activetcl installer,"active tcl" installer,"activestate tcl" installer,activetcl path,"active tcl" path,"activestate tcl" path,activetcl directory,"active tcl" directory,"activestate tcl" directory,activetcl documentation,"active tcl" documentation,"activestate tcl" documentation,activetcl dependency,"active tcl" dependency,"activestate tcl" dependency,activetcl supported,"active tcl" supported,"activestate tcl" supported,activepython installation,"active python" installation,activestate installation,"activestate python" installation,activepython readme,"active python" readme,"activestate python" readme,activepython "product manual","active python" "product manual",activestate "product manual","activestate python" "product manual",activepython "reference manual","active python" "reference manual","activestate python" "reference manual",activepython "user manual","activestate python" "user manual","active python" "user manual",activepython included,"active python" included,"activestate python" included,uses activepython,uses "active python",uses "activestate python",programmed activepython,programmed "active python",programmed "activestate python",activepython quickstart,"active python" quickstart,"activestate python" quickstart,recommends activepython,recommends "active python",recommends "activestate python",recommended activepython,recommended "active python",recommended "activestate python",suggests activepython,suggests "active python",suggests "activestate python",activepython configuration,"active python" configuration,"activestate python" configuration,activestate configuration,activepython requirements,"active python" requirements,"activestate python" requirements,uses activepython version,uses "active python" version,uses "activestate python" version,activepython version "or later","active python" version "or later","activestate python" version "or later",activepython suggested,"active python" suggested,"activestate python" suggested,activepython portal,"active python" portal,"activestate python" portal,activepython required,"active python" required,"activestate python" required,activepython included,"active python" included,"activestate python" included,activepython prerequisite,"active python" prerequisite,"activestate python" prerequisite,activepython documentation,"active python" documentation
+
+["active tcl" included]
+title="active tcl" included
+q="active tcl" included
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" included]
+title="activestate tcl" included
+q="activestate tcl" included
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[uses activetcl]
+title=uses activetcl
+q=uses activetcl
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[uses "active tcl"]
+title=uses "active tcl"
+q=uses "active tcl"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[uses "activestate tcl"]
+title=uses "activestate tcl"
+q=uses "activestate tcl"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[programmed activetcl]
+title=programmed activetcl
+q=programmed activetcl
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[programmed "active tcl"]
+title=programmed "active tcl"
+q=programmed "active tcl"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[programmed "activestate tcl"]
+title=programmed "activestate tcl"
+q=programmed "activestate tcl"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl quickstart]
+title=activetcl quickstart
+q=activetcl quickstart
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active tcl" quickstart]
+title="active tcl" quickstart
+q="active tcl" quickstart
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" quickstart]
+title="activestate tcl" quickstart
+q="activestate tcl" quickstart
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[recommends activetcl]
+title=recommends activetcl
+q=recommends activetcl
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[recommends "active tcl"]
+title=recommends "active tcl"
+q=recommends "active tcl"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[recommends "activestate tcl"]
+title=recommends "activestate tcl"
+q=recommends "activestate tcl"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[recommended activetcl]
+title=recommended activetcl
+q=recommended activetcl
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[recommended "active tcl"]
+title=recommended "active tcl"
+q=recommended "active tcl"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[recommended "activestate tcl"]
+title=recommended "activestate tcl"
+q=recommended "activestate tcl"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[suggests activetcl]
+title=suggests activetcl
+q=suggests activetcl
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[suggests "active tcl"]
+title=suggests "active tcl"
+q=suggests "active tcl"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[suggests "activestate tcl"]
+title=suggests "activestate tcl"
+q=suggests "activestate tcl"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl configuration]
+title=activetcl configuration
+q=activetcl configuration
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active tcl" configuration]
+title="active tcl" configuration
+q="active tcl" configuration
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" configuration]
+title="activestate tcl" configuration
+q="activestate tcl" configuration
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate configuration]
+title=activestate configuration
+q=activestate configuration
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl requirements]
+title=activetcl requirements
+q=activetcl requirements
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active tcl" requirements]
+title="active tcl" requirements
+q="active tcl" requirements
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" requirements]
+title="activestate tcl" requirements
+q="activestate tcl" requirements
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[uses activetcl version]
+title=uses activetcl version
+q=uses activetcl version
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[uses "active tcl" version]
+title=uses "active tcl" version
+q=uses "active tcl" version
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[uses "activestate tcl" version]
+title=uses "activestate tcl" version
+q=uses "activestate tcl" version
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl version "or later"]
+title=activetcl version "or later"
+q=activetcl version "or later"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active tcl" version "or later"]
+title="active tcl" version "or later"
+q="active tcl" version "or later"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" version "or later"]
+title="activestate tcl" version "or later"
+q="activestate tcl" version "or later"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl suggested]
+title=activetcl suggested
+q=activetcl suggested
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active tcl" suggested]
+title="active tcl" suggested
+q="active tcl" suggested
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" suggested]
+title="activestate tcl" suggested
+q="activestate tcl" suggested
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl portal]
+title=activetcl portal
+q=activetcl portal
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active tcl" portal]
+title="active tcl" portal
+q="active tcl" portal
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" portal]
+title="activestate tcl" portal
+q="activestate tcl" portal
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl required]
+title=activetcl required
+q=activetcl required
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active tcl" required]
+title="active tcl" required
+q="active tcl" required
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" required]
+title="activestate tcl" required
+q="activestate tcl" required
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl included]
+title=activetcl included
+q=activetcl included
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active tcl" included]
+title="active tcl" included
+q="active tcl" included
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" included]
+title="activestate tcl" included
+q="activestate tcl" included
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl prerequisite]
+title=activetcl prerequisite
+q=activetcl prerequisite
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active tcl" prerequisite]
+title="active tcl" prerequisite
+q="active tcl" prerequisite
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" prerequisite]
+title="activestate tcl" prerequisite
+q="activestate tcl" prerequisite
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl documentation]
+title=activetcl documentation
+q=activetcl documentation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active tcl" documentation]
+title="active tcl" documentation
+q="active tcl" documentation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" documentation]
+title="activestate tcl" documentation
+q="activestate tcl" documentation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl release]
+title=activetcl release
+q=activetcl release
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active tcl" release]
+title="active tcl" release
+q="active tcl" release
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" release]
+title="activestate tcl" release
+q="activestate tcl" release
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl faq]
+title=activetcl faq
+q=activetcl faq
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active tcl" faq]
+title="active tcl" faq
+q="active tcl" faq
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" faq]
+title="activestate tcl" faq
+q="activestate tcl" faq
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl "web hosting"]
+title=activetcl "web hosting"
+q=activetcl "web hosting"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active tcl" "web hosting"]
+title="active tcl" "web hosting"
+q="active tcl" "web hosting"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" "web hosting"]
+title="activestate tcl" "web hosting"
+q="activestate tcl" "web hosting"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl webhosting]
+title=activetcl webhosting
+q=activetcl webhosting
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active tcl" webhosting]
+title="active tcl" webhosting
+q="active tcl" webhosting
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" webhosting]
+title="activestate tcl" webhosting
+q="activestate tcl" webhosting
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl supports]
+title=activetcl supports
+q=activetcl supports
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active tcl" supports]
+title="active tcl" supports
+q="active tcl" supports
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" supports]
+title="activestate tcl" supports
+q="activestate tcl" supports
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl instructions]
+title=activetcl instructions
+q=activetcl instructions
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active tcl" instructions]
+title="active tcl" instructions
+q="active tcl" instructions
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" instructions]
+title="activestate tcl" instructions
+q="activestate tcl" instructions
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl installer]
+title=activetcl installer
+q=activetcl installer
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active tcl" installer]
+title="active tcl" installer
+q="active tcl" installer
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" installer]
+title="activestate tcl" installer
+q="activestate tcl" installer
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl path]
+title=activetcl path
+q=activetcl path
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active tcl" path]
+title="active tcl" path
+q="active tcl" path
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" path]
+title="activestate tcl" path
+q="activestate tcl" path
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl directory]
+title=activetcl directory
+q=activetcl directory
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active tcl" directory]
+title="active tcl" directory
+q="active tcl" directory
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" directory]
+title="activestate tcl" directory
+q="activestate tcl" directory
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl documentation]
+title=activetcl documentation
+q=activetcl documentation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active tcl" documentation]
+title="active tcl" documentation
+q="active tcl" documentation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" documentation]
+title="activestate tcl" documentation
+q="activestate tcl" documentation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl dependency]
+title=activetcl dependency
+q=activetcl dependency
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active tcl" dependency]
+title="active tcl" dependency
+q="active tcl" dependency
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" dependency]
+title="activestate tcl" dependency
+q="activestate tcl" dependency
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl supported]
+title=activetcl supported
+q=activetcl supported
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active tcl" supported]
+title="active tcl" supported
+q="active tcl" supported
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" supported]
+title="activestate tcl" supported
+q="activestate tcl" supported
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython installation]
+title=activepython installation
+q=activepython installation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" installation]
+title="active python" installation
+q="active python" installation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate installation]
+title=activestate installation
+q=activestate installation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" installation]
+title="activestate python" installation
+q="activestate python" installation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython readme]
+title=activepython readme
+q=activepython readme
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" readme]
+title="active python" readme
+q="active python" readme
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" readme]
+title="activestate python" readme
+q="activestate python" readme
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython "product manual"]
+title=activepython "product manual"
+q=activepython "product manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" "product manual"]
+title="active python" "product manual"
+q="active python" "product manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate "product manual"]
+title=activestate "product manual"
+q=activestate "product manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" "product manual"]
+title="activestate python" "product manual"
+q="activestate python" "product manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython "reference manual"]
+title=activepython "reference manual"
+q=activepython "reference manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" "reference manual"]
+title="active python" "reference manual"
+q="active python" "reference manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" "reference manual"]
+title="activestate python" "reference manual"
+q="activestate python" "reference manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython "user manual"]
+title=activepython "user manual"
+q=activepython "user manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" "user manual"]
+title="activestate python" "user manual"
+q="activestate python" "user manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" "user manual"]
+title="active python" "user manual"
+q="active python" "user manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython included]
+title=activepython included
+q=activepython included
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" included]
+title="active python" included
+q="active python" included
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" included]
+title="activestate python" included
+q="activestate python" included
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[uses activepython]
+title=uses activepython
+q=uses activepython
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[uses "active python"]
+title=uses "active python"
+q=uses "active python"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[uses "activestate python"]
+title=uses "activestate python"
+q=uses "activestate python"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[programmed activepython]
+title=programmed activepython
+q=programmed activepython
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[programmed "active python"]
+title=programmed "active python"
+q=programmed "active python"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[programmed "activestate python"]
+title=programmed "activestate python"
+q=programmed "activestate python"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython quickstart]
+title=activepython quickstart
+q=activepython quickstart
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" quickstart]
+title="active python" quickstart
+q="active python" quickstart
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" quickstart]
+title="activestate python" quickstart
+q="activestate python" quickstart
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[recommends activepython]
+title=recommends activepython
+q=recommends activepython
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[recommends "active python"]
+title=recommends "active python"
+q=recommends "active python"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[recommends "activestate python"]
+title=recommends "activestate python"
+q=recommends "activestate python"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[recommended activepython]
+title=recommended activepython
+q=recommended activepython
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[recommended "active python"]
+title=recommended "active python"
+q=recommended "active python"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[recommended "activestate python"]
+title=recommended "activestate python"
+q=recommended "activestate python"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[suggests activepython]
+title=suggests activepython
+q=suggests activepython
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[suggests "active python"]
+title=suggests "active python"
+q=suggests "active python"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[suggests "activestate python"]
+title=suggests "activestate python"
+q=suggests "activestate python"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython configuration]
+title=activepython configuration
+q=activepython configuration
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" configuration]
+title="active python" configuration
+q="active python" configuration
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" configuration]
+title="activestate python" configuration
+q="activestate python" configuration
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate configuration]
+title=activestate configuration
+q=activestate configuration
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython requirements]
+title=activepython requirements
+q=activepython requirements
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" requirements]
+title="active python" requirements
+q="active python" requirements
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" requirements]
+title="activestate python" requirements
+q="activestate python" requirements
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[uses activepython version]
+title=uses activepython version
+q=uses activepython version
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[uses "active python" version]
+title=uses "active python" version
+q=uses "active python" version
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[uses "activestate python" version]
+title=uses "activestate python" version
+q=uses "activestate python" version
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython version "or later"]
+title=activepython version "or later"
+q=activepython version "or later"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" version "or later"]
+title="active python" version "or later"
+q="active python" version "or later"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" version "or later"]
+title="activestate python" version "or later"
+q="activestate python" version "or later"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython suggested]
+title=activepython suggested
+q=activepython suggested
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" suggested]
+title="active python" suggested
+q="active python" suggested
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" suggested]
+title="activestate python" suggested
+q="activestate python" suggested
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython portal]
+title=activepython portal
+q=activepython portal
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" portal]
+title="active python" portal
+q="active python" portal
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" portal]
+title="activestate python" portal
+q="activestate python" portal
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython required]
+title=activepython required
+q=activepython required
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" required]
+title="active python" required
+q="active python" required
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" required]
+title="activestate python" required
+q="activestate python" required
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython included]
+title=activepython included
+q=activepython included
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" included]
+title="active python" included
+q="active python" included
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" included]
+title="activestate python" included
+q="activestate python" included
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython prerequisite]
+title=activepython prerequisite
+q=activepython prerequisite
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" prerequisite]
+title="active python" prerequisite
+q="active python" prerequisite
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate python" prerequisite]
+title="activestate python" prerequisite
+q="activestate python" prerequisite
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activepython documentation]
+title=activepython documentation
+q=activepython documentation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active python" documentation]
+title="active python" documentation
+q="active python" documentation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+

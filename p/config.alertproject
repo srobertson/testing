@@ -1,0 +1,60 @@
+[project]
+name=ActiveState Languages Competition Alert
+desc=A daily summary of mentions of ActiveState Languages/*DK competitors on the net.
+archive_url=http://i.activestate.com/alerts/aslangcompetition/
+from=Webops' asalert script <webops@activestate.com>
+to=exco@activestate.com
+queries=enthought,picloud,zend,heroku,engineyard,strawberry,openlogic,spikesource,py2exe,perl2exe,citrus perl,cava packager
+
+[zend]
+q=zend
+title=Zend
+
+[engineyard]
+q=engineyard
+title=Engine Yard
+
+[picloud]
+q=picloud
+title=PiCloud
+
+[enthought]
+q=enthought
+title=Enthought
+
+[heroku]
+title=Heroku
+q=heroku
+
+[strawberry]
+title=Strawberry Perl
+q=(strawberry AND perl)
+
+[openlogic]
+q=openlogic
+title=OpenLogic
+
+[spikesource]
+q=spikesource
+title=SpikeSource
+
+[py2exe]
+q=py2exe,py2app
+title=py2exe
+
+[perl2exe]
+q=perl2exe
+title=perl2exe
+
+[citrus perl]
+title=Citrus Perl
+q="citrus perl" -peel
+
+[cava packager]
+title=Cava Packager
+q="cava packager" -java -cave
+
+[cava perl]
+title=Cava Perl
+q="cava perl" -java -cave
+

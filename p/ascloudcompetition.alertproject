@@ -1,0 +1,69 @@
+[project]
+name=ActiveState Cloud Competition
+desc=Keeping up on PaaS competition.
+archive_url=http://i.activestate.com/alerts/ascloud/
+from=Webops' asalert script <webops@activestate.com>
+to=multipaas@activestate.com,activestate@kulesafaul.com
+
+queries=appfog,apprenda,cloud foundry OR cloudfoundry OR bento AND cloud,cloudbees,cumulogic,dotcloud,gigaspaces,longjump,openshift,outsystems AND cloud,stackato,private paas
+
+[appfog]
+title=appfog
+q=appfog
+url_exclude_patterns=/youtube.com/i
+
+[apprenda]
+title=apprenda
+q=apprenda
+url_exclude_patterns=/youtube.com/i
+
+[cloud foundry OR cloudfoundry OR bento AND cloud]
+title=cloud foundry OR cloudfoundry OR bento AND cloud
+q=cloud foundry OR cloudfoundry OR bento AND cloud
+url_exclude_patterns=/youtube.com/i
+
+[cloudbees]
+title=cloudbees
+q=cloudbees
+url_exclude_patterns=/youtube.com/i
+
+[cumulogic]
+title=cumulogic
+q=cumulogic
+url_exclude_patterns=/youtube.com/i
+
+[dotcloud]
+title=dotcloud
+q=dotcloud
+url_exclude_patterns=/youtube.com/i
+
+[gigaspaces]
+title=gigaspaces
+q=gigaspaces
+url_exclude_patterns=/youtube.com/i
+
+[longjump]
+title=longjump
+q=longjump
+url_exclude_patterns=/youtube.com/i
+
+[openshift]
+title=openshift
+q=openshift
+url_exclude_patterns=/youtube.com/i
+
+[outsystems AND cloud]
+title=outsystems AND cloud
+q=outsystems AND cloud
+url_exclude_patterns=/youtube.com/i
+
+[stackato]
+title=stackato
+q=stackato
+url_exclude_patterns=/youtube.com/i
+
+[private paas]
+title=private paas
+q=private paas
+url_exclude_patterns=/youtube.com/i
+

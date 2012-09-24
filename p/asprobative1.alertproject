@@ -1,0 +1,940 @@
+[project]
+name=ActiveState Probative Terms part 1
+desc=A list of search terms recommended by Josh.
+archive_url=http://i.activestate.com/alerts/asprobative1/
+from=Webops' asalert script <webops@activestate.com>
+to=angieh@activestate.com,grahams@activestate.com,ronb@activestate.com,fredn@activestate.com
+bcc=kevinw@activestate.com
+
+queries=activeperl installation,"active perl" installation,activestate installation,"activestate perl" installation,activestate installation,activeperl readme,"active perl" readme,activestate readme,"activestate perl" readme,activeperl "product manual","active perl" "product manual",activestate "product manual","activestate perl" "product manual",activeperl "reference manual","active perl" "reference manual",activestate "reference manual","activestate perl" "reference manual",activeperl "user manual","activestate perl" "user manual","activestate user" manual,"active perl" "user manual",activeperl included,"active perl" included,activestate included,"activestate perl" included,uses activeperl,uses "active perl",uses "activestate perl",uses activestate,programmed activeperl,programmed "active perl",programmed "activestate perl",programmed activestate,activeperl quickstart,"active perl" quickstart,"activestate perl" quickstart,activestate quickstart,recommends activeperl,recommends "active perl",recommends "activestate perl",recommends activestate,recommended activeperl,recommended "active perl",recommended "activestate perl",recommended activestate,suggests activeperl,suggests "active perl",suggests "activestate perl",suggests activestate,activeperl configuration,"active perl" configuration,"activestate perl" configuration,activestate configuration,activeperl requirements,"active perl" requirements,"activestate perl" requirements,activestate requirements,uses activeperl version,uses "active perl" version,uses "activestate perl" version,uses activestate version,activeperl version "or later","active perl" version "or later","activestate perl" version "or later",activestate version "or later",activeperl suggested,"active perl" suggested,activestate suggested,"activestate perl" suggested,activeperl portal,"active perl" portal,"activestate perl" portal,activestate portal,activeperl required,"active perl" required,"activestate perl" required,activestate required,activeperl included,"active perl" included,"activestate perl" included,activestate included,activeperl prerequisite,"active perl" prerequisite,"activestate perl" prerequisite,activestate prerequisite,activeperl documentation,"active perl" documentation,"activestate perl" documentation,activestate documentation,activeperl release,"active perl" release,"activestate perl" release,activestate release,activeperl faq,"active perl" faq,"activestate perl" faq,activestate faq,activeperl "web hosting","active perl" "web hosting","activestate perl" "web hosting",activestate "web hosting",activeperl webhosting,"active perl" webhosting,"activestate perl" webhosting,activestate webhosting,activeperl supports,"active perl" supports,"activestate perl" supports,activestate supports,activeperl instructions,"active perl" instructions,"activestate perl" instructions,activestate instructions,activeperl installer,"active perl" installer,"activestate perl" installer,activestate installer,activeperl path,"active perl" path,"activestate perl" path,activestate path,activeperl directory,"active perl" directory,"activestate perl" directory,activestate directory,activeperl documentation,"active perl" documentation,"activestate perl" documentation,activestate documentation,activeperl dependency,"active perl" dependency,"activestate perl" dependency,activestate dependency,activeperl supported,"active perl" supported,"activestate perl" supported,activestate supported,activetcl installation,"active tcl" installation,activestate installation,"activestate tcl" installation,activetcl readme,"active tcl" readme,"activestate tcl" readme,activetcl "product manual",active tcl "product manual",activestate "product manual","activestate tcl" "product manual",activetcl "reference manual","active tcl" "reference manual","activestate tcl" "reference manual",activetcl "user manual","activestate tcl" "user manual","active tcl" "user manual",activetcl included
+
+[activeperl installation]
+title=activeperl installation
+q=activeperl installation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" installation]
+title="active perl" installation
+q="active perl" installation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate installation]
+title=activestate installation
+q=activestate installation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" installation]
+title="activestate perl" installation
+q="activestate perl" installation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate installation]
+title=activestate installation
+q=activestate installation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl readme]
+title=activeperl readme
+q=activeperl readme
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" readme]
+title="active perl" readme
+q="active perl" readme
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate readme]
+title=activestate readme
+q=activestate readme
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" readme]
+title="activestate perl" readme
+q="activestate perl" readme
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl "product manual"]
+title=activeperl "product manual"
+q=activeperl "product manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" "product manual"]
+title="active perl" "product manual"
+q="active perl" "product manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate "product manual"]
+title=activestate "product manual"
+q=activestate "product manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" "product manual"]
+title="activestate perl" "product manual"
+q="activestate perl" "product manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl "reference manual"]
+title=activeperl "reference manual"
+q=activeperl "reference manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" "reference manual"]
+title="active perl" "reference manual"
+q="active perl" "reference manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate "reference manual"]
+title=activestate "reference manual"
+q=activestate "reference manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" "reference manual"]
+title="activestate perl" "reference manual"
+q="activestate perl" "reference manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl "user manual"]
+title=activeperl "user manual"
+q=activeperl "user manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" "user manual"]
+title="activestate perl" "user manual"
+q="activestate perl" "user manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate user" manual]
+title="activestate user" manual
+q="activestate user" manual
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" "user manual"]
+title="active perl" "user manual"
+q="active perl" "user manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl included]
+title=activeperl included
+q=activeperl included
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" included]
+title="active perl" included
+q="active perl" included
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate included]
+title=activestate included
+q=activestate included
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" included]
+title="activestate perl" included
+q="activestate perl" included
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[uses activeperl]
+title=uses activeperl
+q=uses activeperl
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[uses "active perl"]
+title=uses "active perl"
+q=uses "active perl"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[uses "activestate perl"]
+title=uses "activestate perl"
+q=uses "activestate perl"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[uses activestate]
+title=uses activestate
+q=uses activestate
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[programmed activeperl]
+title=programmed activeperl
+q=programmed activeperl
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[programmed "active perl"]
+title=programmed "active perl"
+q=programmed "active perl"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[programmed "activestate perl"]
+title=programmed "activestate perl"
+q=programmed "activestate perl"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[programmed activestate]
+title=programmed activestate
+q=programmed activestate
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl quickstart]
+title=activeperl quickstart
+q=activeperl quickstart
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" quickstart]
+title="active perl" quickstart
+q="active perl" quickstart
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" quickstart]
+title="activestate perl" quickstart
+q="activestate perl" quickstart
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate quickstart]
+title=activestate quickstart
+q=activestate quickstart
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[recommends activeperl]
+title=recommends activeperl
+q=recommends activeperl
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[recommends "active perl"]
+title=recommends "active perl"
+q=recommends "active perl"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[recommends "activestate perl"]
+title=recommends "activestate perl"
+q=recommends "activestate perl"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[recommends activestate]
+title=recommends activestate
+q=recommends activestate
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[recommended activeperl]
+title=recommended activeperl
+q=recommended activeperl
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[recommended "active perl"]
+title=recommended "active perl"
+q=recommended "active perl"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[recommended "activestate perl"]
+title=recommended "activestate perl"
+q=recommended "activestate perl"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[recommended activestate]
+title=recommended activestate
+q=recommended activestate
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[suggests activeperl]
+title=suggests activeperl
+q=suggests activeperl
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[suggests "active perl"]
+title=suggests "active perl"
+q=suggests "active perl"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[suggests "activestate perl"]
+title=suggests "activestate perl"
+q=suggests "activestate perl"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[suggests activestate]
+title=suggests activestate
+q=suggests activestate
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl configuration]
+title=activeperl configuration
+q=activeperl configuration
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" configuration]
+title="active perl" configuration
+q="active perl" configuration
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" configuration]
+title="activestate perl" configuration
+q="activestate perl" configuration
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate configuration]
+title=activestate configuration
+q=activestate configuration
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl requirements]
+title=activeperl requirements
+q=activeperl requirements
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" requirements]
+title="active perl" requirements
+q="active perl" requirements
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" requirements]
+title="activestate perl" requirements
+q="activestate perl" requirements
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate requirements]
+title=activestate requirements
+q=activestate requirements
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[uses activeperl version]
+title=uses activeperl version
+q=uses activeperl version
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[uses "active perl" version]
+title=uses "active perl" version
+q=uses "active perl" version
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[uses "activestate perl" version]
+title=uses "activestate perl" version
+q=uses "activestate perl" version
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[uses activestate version]
+title=uses activestate version
+q=uses activestate version
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl version "or later"]
+title=activeperl version "or later"
+q=activeperl version "or later"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" version "or later"]
+title="active perl" version "or later"
+q="active perl" version "or later"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" version "or later"]
+title="activestate perl" version "or later"
+q="activestate perl" version "or later"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate version "or later"]
+title=activestate version "or later"
+q=activestate version "or later"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl suggested]
+title=activeperl suggested
+q=activeperl suggested
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" suggested]
+title="active perl" suggested
+q="active perl" suggested
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate suggested]
+title=activestate suggested
+q=activestate suggested
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" suggested]
+title="activestate perl" suggested
+q="activestate perl" suggested
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl portal]
+title=activeperl portal
+q=activeperl portal
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" portal]
+title="active perl" portal
+q="active perl" portal
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" portal]
+title="activestate perl" portal
+q="activestate perl" portal
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate portal]
+title=activestate portal
+q=activestate portal
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl required]
+title=activeperl required
+q=activeperl required
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" required]
+title="active perl" required
+q="active perl" required
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" required]
+title="activestate perl" required
+q="activestate perl" required
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate required]
+title=activestate required
+q=activestate required
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl included]
+title=activeperl included
+q=activeperl included
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" included]
+title="active perl" included
+q="active perl" included
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" included]
+title="activestate perl" included
+q="activestate perl" included
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate included]
+title=activestate included
+q=activestate included
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl prerequisite]
+title=activeperl prerequisite
+q=activeperl prerequisite
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" prerequisite]
+title="active perl" prerequisite
+q="active perl" prerequisite
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" prerequisite]
+title="activestate perl" prerequisite
+q="activestate perl" prerequisite
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate prerequisite]
+title=activestate prerequisite
+q=activestate prerequisite
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl documentation]
+title=activeperl documentation
+q=activeperl documentation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" documentation]
+title="active perl" documentation
+q="active perl" documentation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" documentation]
+title="activestate perl" documentation
+q="activestate perl" documentation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate documentation]
+title=activestate documentation
+q=activestate documentation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl release]
+title=activeperl release
+q=activeperl release
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" release]
+title="active perl" release
+q="active perl" release
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" release]
+title="activestate perl" release
+q="activestate perl" release
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate release]
+title=activestate release
+q=activestate release
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl faq]
+title=activeperl faq
+q=activeperl faq
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" faq]
+title="active perl" faq
+q="active perl" faq
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" faq]
+title="activestate perl" faq
+q="activestate perl" faq
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate faq]
+title=activestate faq
+q=activestate faq
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl "web hosting"]
+title=activeperl "web hosting"
+q=activeperl "web hosting"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" "web hosting"]
+title="active perl" "web hosting"
+q="active perl" "web hosting"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" "web hosting"]
+title="activestate perl" "web hosting"
+q="activestate perl" "web hosting"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate "web hosting"]
+title=activestate "web hosting"
+q=activestate "web hosting"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl webhosting]
+title=activeperl webhosting
+q=activeperl webhosting
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" webhosting]
+title="active perl" webhosting
+q="active perl" webhosting
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" webhosting]
+title="activestate perl" webhosting
+q="activestate perl" webhosting
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate webhosting]
+title=activestate webhosting
+q=activestate webhosting
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl supports]
+title=activeperl supports
+q=activeperl supports
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" supports]
+title="active perl" supports
+q="active perl" supports
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" supports]
+title="activestate perl" supports
+q="activestate perl" supports
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate supports]
+title=activestate supports
+q=activestate supports
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl instructions]
+title=activeperl instructions
+q=activeperl instructions
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" instructions]
+title="active perl" instructions
+q="active perl" instructions
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" instructions]
+title="activestate perl" instructions
+q="activestate perl" instructions
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate instructions]
+title=activestate instructions
+q=activestate instructions
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl installer]
+title=activeperl installer
+q=activeperl installer
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" installer]
+title="active perl" installer
+q="active perl" installer
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" installer]
+title="activestate perl" installer
+q="activestate perl" installer
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate installer]
+title=activestate installer
+q=activestate installer
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl path]
+title=activeperl path
+q=activeperl path
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" path]
+title="active perl" path
+q="active perl" path
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" path]
+title="activestate perl" path
+q="activestate perl" path
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate path]
+title=activestate path
+q=activestate path
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl directory]
+title=activeperl directory
+q=activeperl directory
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" directory]
+title="active perl" directory
+q="active perl" directory
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" directory]
+title="activestate perl" directory
+q="activestate perl" directory
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate directory]
+title=activestate directory
+q=activestate directory
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl documentation]
+title=activeperl documentation
+q=activeperl documentation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" documentation]
+title="active perl" documentation
+q="active perl" documentation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" documentation]
+title="activestate perl" documentation
+q="activestate perl" documentation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate documentation]
+title=activestate documentation
+q=activestate documentation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl dependency]
+title=activeperl dependency
+q=activeperl dependency
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" dependency]
+title="active perl" dependency
+q="active perl" dependency
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" dependency]
+title="activestate perl" dependency
+q="activestate perl" dependency
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate dependency]
+title=activestate dependency
+q=activestate dependency
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activeperl supported]
+title=activeperl supported
+q=activeperl supported
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active perl" supported]
+title="active perl" supported
+q="active perl" supported
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate perl" supported]
+title="activestate perl" supported
+q="activestate perl" supported
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate supported]
+title=activestate supported
+q=activestate supported
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl installation]
+title=activetcl installation
+q=activetcl installation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active tcl" installation]
+title="active tcl" installation
+q="active tcl" installation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate installation]
+title=activestate installation
+q=activestate installation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" installation]
+title="activestate tcl" installation
+q="activestate tcl" installation
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl readme]
+title=activetcl readme
+q=activetcl readme
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active tcl" readme]
+title="active tcl" readme
+q="active tcl" readme
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" readme]
+title="activestate tcl" readme
+q="activestate tcl" readme
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl "product manual"]
+title=activetcl "product manual"
+q=activetcl "product manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[active tcl "product manual"]
+title=active tcl "product manual"
+q=active tcl "product manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activestate "product manual"]
+title=activestate "product manual"
+q=activestate "product manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" "product manual"]
+title="activestate tcl" "product manual"
+q="activestate tcl" "product manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl "reference manual"]
+title=activetcl "reference manual"
+q=activetcl "reference manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active tcl" "reference manual"]
+title="active tcl" "reference manual"
+q="active tcl" "reference manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" "reference manual"]
+title="activestate tcl" "reference manual"
+q="activestate tcl" "reference manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl "user manual"]
+title=activetcl "user manual"
+q=activetcl "user manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["activestate tcl" "user manual"]
+title="activestate tcl" "user manual"
+q="activestate tcl" "user manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+["active tcl" "user manual"]
+title="active tcl" "user manual"
+q="active tcl" "user manual"
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+
+[activetcl included]
+title=activetcl included
+q=activetcl included
+url_exclude_patterns=/youtube.com/i
+url_exclude_patterns=/twitter.com/i
+

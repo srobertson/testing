@@ -1,0 +1,46 @@
+[project]
+name=ActiveState Business Solutions Alert
+archive_url=http://i.activestate.com/alerts/asbizsolns/
+from=Webops' asalert script <webops@activestate.com>
+to=angieh@activestate.com
+bcc=
+queries=training,enterprise,business,consulting,oem,redistribute,distribute,support,licensing
+# Drop references like: "Monty Python", "Monty <b>Python</b>"
+content_exclude_patterns=/Monty/i
+
+[training]
+q=training perl OR python OR Tcl
+title=Training (Perl, Python, or Tcl)
+
+[enterprise]
+q=enterprise perl OR python OR Tcl
+title=Enterprise (Perl, Python, or Tcl)
+
+[business]
+q=business perl OR python OR Tcl
+title=Business (Perl, Python, or Tcl)
+
+[consulting]
+q=consulting perl OR python OR Tcl
+title=Consulting (Perl, Python, or Tcl)
+
+[oem]
+q=oem perl OR python OR Tcl
+title=OEM (Perl, Python, or Tcl)
+
+[redistribute]
+q=redistribute perl OR python OR Tcl
+title=Redistribute (Perl, Python, or Tcl)
+
+[distribute]
+q=distribute perl OR python OR Tcl
+title=Distribute (Perl, Python, or Tcl)
+
+[support]
+q=support perl OR python OR Tcl
+title=Support (Perl, Python, or Tcl)
+
+[licensing]
+q=licensing perl OR python OR Tcl
+title=Licensing (Perl, Python, or Tcl)
+
