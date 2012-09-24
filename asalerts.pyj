@@ -2,13 +2,14 @@
 google_url_pattern = 'http://ajax.googleapis.com/ajax/services/search/%s?v=1.0&%s'
 twitter_url_pattern = 'http://search.twitter.com/search.json?%s' 
 
-searches=rule('repo://p')
+searches=rule('repo://p', 'searches')
 searches.freq = MINUTELY
 searches.interval = 2
 
 @searches.map
 def map(data, params):
-  print data
+  print "===[[[" +data
+
   json.loads(data)
   
   for name, category in json.loads(data).items():
