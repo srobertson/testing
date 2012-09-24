@@ -7,21 +7,29 @@ searches.freq = MINUTELY
 searches.interval = 2
 
 @searches.map
-def map(data, params):
-  print "===[[[" +data
-
-  json.loads(data)
+def map(file, params):
+  from ConfigParser import SafeConfigParser, NoOptionError
   
-  for name, category in json.loads(data).items():
-    for query in project['query'].split(','):
+
+  config = SafecConfigParser()
+  config.readfp(file)
+  
+
+  for category in config.sections():
+    if category == 'project':
+      continue
+      
+    qs = config.get(category, 'q')
+  
+    for q in qs.split(','):
       query = urllib.urlencode({'q' : q})
       
       # google searches
       for type in ("news", "blogs", "video"):  
-        yield category['title'], {'url':google_url_pattern % (type, query)}
+        yield section, {'url':google_url_pattern % (type, query)}
   
       # twitter searches
-      yield "twitter", 'http://search.twitter.com/search.json?%s' % query
+      yield section, {'url':'http://search.twitter.com/search.json?%s' % query}
   
 
 # # Preform searches for the given day
