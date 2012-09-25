@@ -7,8 +7,6 @@ def map(file, params):
   google_url_pattern = 'http://ajax.googleapis.com/ajax/services/search/%s?v=1.0&%s'
   twitter_url_pattern = 'http://search.twitter.com/search.json?%s' 
   
-  
-
   config = SafeConfigParser()
   try:
     config.readfp(file)
